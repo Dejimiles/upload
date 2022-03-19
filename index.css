@@ -1,0 +1,399 @@
+.justify1 {
+  float: left;
+}
+.but-1 {
+  color: #fff;
+  border-color: #288855;
+  background-color: #288855;
+}
+@media (max-width: 767px) {
+  .vis a span {
+    visibility: hidden;
+    font-size: 10px;
+  }
+  .live1 {
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+  }
+  .cart {
+    display: none;
+    visibility: hidden;
+    width: 100%;
+  }
+  .lowt {
+    align-content: center;
+    text-align: center;
+  }
+  .wenn {
+    text-align: center;
+    justify-content: center;
+  }
+
+  .wep {
+    background-image: url(hero3.jpg);
+    background-size: 100% 100%;
+    align-content: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+  .wep1 {
+    background-image: url(image3.jpg);
+    background-size: 100% 100%;
+    align-content: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    padding-bottom: 50px;
+  }
+  .wep0 {
+    background-image: url(image2.jpg);
+    background-size: 100% 100%;
+    align-content: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    padding-bottom: 50px;
+  }
+}
+
+.flex1 {
+  display: flex;
+  align-content: center;
+}
+.wrap1 {
+  background-color: #f2fcf9;
+  width: auto;
+  padding-top: 100px;
+}
+.flex11 {
+  display: flex;
+  align-content: center;
+}
+.wrap11 {
+  background-color: #fcf4f2;
+  width: auto;
+  padding-top: 100px;
+}
+.flex111 {
+  display: flex;
+  align-content: center;
+}
+.wrap111 {
+  background-color: #fcf4f2;
+  width: auto;
+  padding-top: 100px;
+}
+
+.cent {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: sans-serif, "Apercu";
+  font-size: 10px;
+  font-weight: 400px;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: -8px;
+  word-spacing: 10px;
+  padding-top: 24px;
+  position: absolute;
+  tab-size: 4;
+  text-rendering: optimizelegibility;
+  width: 1440px;
+}
+
+h5 span {
+  color: green;
+}
+
+*/ .text-yello {
+  color: #f9ae00;
+}
+.juse {
+  position: relative;
+  width: 450px;
+  min-height: 500px;
+  max-width: 100%;
+  background-image: url(about.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: auto;
+  padding-right: auto;
+  align-content: center;
+  background-position-x: center;
+}
+.wrapp {
+  background-color: #f2fcf9;
+  text-align: left;
+  width: 1440px;
+}
+.wrapp1 {
+  text-align: center;
+}
+.carousel12 {
+  display: flex;
+}
+.run {
+  border: solid 1px white;
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  margin-left: 30px;
+  margin-right: 10px;
+  background-color: white;
+  box-shadow: 9px 4px 10px;
+  height: 75%;
+}
+.btn-dit {
+  background-color: #dbf9ea;
+  color: green;
+}
+.run1 {
+  border: solid 1px white;
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  margin-right: 30px;
+  margin-left: 10px;
+  background-color: white;
+  box-shadow: 9px 4px 10px;
+  height: 65%;
+}
+.tot {
+  width: 100%;
+}
+.fluent {
+  text-align: center;
+  min-height: 350px;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(https://nasims.gov.ng/_nuxt/img/about-hero.f21246b.webp);
+  background-repeat: repeat, repeat;
+  background-size: auto, auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+}
+
+.sen {
+  display: flex;
+  align-content: center;
+}
+.wen {
+  background-image: url(img/about2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.crace {
+  text-align: left;
+}
+.flue {
+  background-color: #fffbf6;
+  text-align: center;
+}
+.aboutt {
+  font-weight: 600;
+  max-width: 600px;
+  margin: 0 auto 30px;
+  text-align: center;
+}
+/* .wen1{
+      background-image: url(img/about2.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+  
+  }
+  .wen2{
+      background-image: url(img/about2.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .wen3{
+      background-image: url(img/about2.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+  .wen4{
+      background-image: url(img/about2.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+  } 
+  */
+
+.conter {
+  text-align: center;
+}
+.wrop1 {
+  display: flex;
+}
+.wrop2 {
+  align-content: center;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 7px 2px;
+  box-sizing: border-box;
+  color: rgb(33, 37, 41);
+  cursor: default;
+  flex-basis: auto;
+  flex-grow: 0;
+  font-family: "Apercu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  max-width: 100%;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  tab-size: 4;
+  text-align: left;
+  text-rendering: optimizelegibility;
+  width: 360px;
+  word-break: normal;
+  word-spacing: 1px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.cool {
+  text-align: start;
+}
+.social {
+  background-color: #141414;
+  background-color: rgb(20, 20, 20);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: rgb(33, 37, 41);
+  cursor: default;
+  display: block;
+  font-family: "Apercu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  tab-size: 4;
+  text-align: left;
+  text-rendering: optimizelegibility;
+  word-break: normal;
+  word-spacing: 1px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.social1 {
+  color: white;
+}
+.social2 {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: black;
+  cursor: default;
+  display: block;
+  font-family: "Apercu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  tab-size: 4;
+  text-align: left;
+  text-rendering: optimizelegibility;
+  word-break: normal;
+  word-spacing: 1px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.text1 {
+  color: black;
+}
+.backer {
+  background-color: rgb(7, 50, 27);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  cursor: default;
+  font-family: "Apercu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 24px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 24px;
+  tab-size: 4;
+  text-align: left;
+  text-rendering: optimizelegibility;
+  word-break: normal;
+  word-spacing: 1px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.vent {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+.flinch {
+  background-color: rgb(249, 236, 220);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: rgb(33, 37, 41);
+  display: block;
+  font-family: "Apercu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  min-height: 350px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  position: relative;
+  tab-size: 4;
+  text-align: left;
+  text-rendering: optimizelegibility;
+  word-break: normal;
+  word-spacing: 1px;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+.juss {
+  text-align: center;
+}
+.blow {
+  text-align: center;
+  text-decoration: dotted;
+}
